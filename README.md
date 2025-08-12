@@ -8,7 +8,7 @@
 </div>
 
 
-<picture align="right"><img align="right" src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="320" /></picture>
+<picture align="right"><img align="right" src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="250" /></picture>
 
   <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
   
