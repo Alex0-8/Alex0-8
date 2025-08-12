@@ -48,16 +48,11 @@ I specialize in HTML, CSS, JavaScript, and React, and I enjoy learning new techn
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-000.svg?logo=github&logoColor=white"></a> 
 
 
-<!--
+
 ### Profile Stats
 
 <img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Alex0-8&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex0-8&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-
-### 🔥 Streak Stats
-
-![Alex's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Alex0-8&theme=tokyonight)
--->
 
 
 - <h2>Proyects</h2>
