@@ -45,8 +45,10 @@ Strong attention to detail, critical thinking, adaptability, and time management
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/Pinia-FFD859?logo=pinia&logoColor=black&style=flat-square" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat-square" />
 
 **Tools & Others**  
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
@@ -55,6 +57,7 @@ Strong attention to detail, critical thinking, adaptability, and time management
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
 
 </div>
 
